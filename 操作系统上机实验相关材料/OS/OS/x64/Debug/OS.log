@@ -1,0 +1,103 @@
+﻿  OS.cpp
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(176): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(182): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(509): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(510): error C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(234): note: 参见“_strlwr”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(568): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(577): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(671): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(684): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(703): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(711): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(735): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(743): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(750): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(926): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(925): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(928): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(929): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(998): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1080): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1079): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1082): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1083): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1119): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1167): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1166): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1169): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1170): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1305): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1347): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1480): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1481): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1515): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1514): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1517): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1518): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1638): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1668): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1843): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1842): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1845): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1846): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1947): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2025): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2024): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2027): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2028): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2041): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2089): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2355): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2312): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2323): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2339): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2368): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2369): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2447): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2525): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2625): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2626): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明

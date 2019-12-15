@@ -1,0 +1,15 @@
+﻿  OS.cpp
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(176): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(671): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(735): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(926): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1080): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1167): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1305): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1515): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1843): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2060): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2390): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(2560): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+c:\users\sunking\desktop\操作系统\课程设计\操作系统上机实验相关材料\os\os\os.cpp(1432): warning C4700: 使用了未初始化的局部变量“b”
+  OS.vcxproj -> C:\Users\Sunking\Desktop\操作系统\课程设计\操作系统上机实验相关材料\OS\Debug\OS.exe

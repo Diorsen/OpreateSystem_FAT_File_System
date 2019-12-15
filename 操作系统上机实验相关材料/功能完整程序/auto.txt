@@ -1,0 +1,14 @@
+md bin
+md usr
+create auto
+md dev
+cd usr
+md user
+md lib
+md bin
+cd user
+md li
+md sun
+md ma
+cd/
+md recycled |rhs
